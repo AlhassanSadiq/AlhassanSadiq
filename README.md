@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AlhassanSadiq
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on project
-- 📫 How to reach me ... on instagram @realalhassansadiq
+- 👀 I’m interested in Mobile App Development
+- 🌱 I’m currently learning Fluttert
+- 💞️ I’m looking to collaborate on a projects
+- 📫 How to reach me ... on Instagram @realalhassansadiq
 
 <!---
 AlhassanSadiq/AlhassanSadiq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
