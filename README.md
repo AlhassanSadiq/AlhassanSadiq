@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlhassanSadiq
 - 👀 I’m interested in Mobile App Development
-- 🌱 I’m currently learning Fluttert
+- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on a projects
 - 📫 How to reach me ... on Instagram @realalhassansadiq
 
